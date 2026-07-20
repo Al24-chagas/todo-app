@@ -1,2 +1,2 @@
 link
-https://ds-u4vmpkc7--8080.eu-central-1.prod.proxy.devspaces.amazon.dev/
+http://todo-app-alchagas.s3-website.eu-north-1.amazonaws.com
