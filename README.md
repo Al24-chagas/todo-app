@@ -5,7 +5,7 @@ A lightweight Todo List application built with vanilla HTML, CSS, and JavaScript
 ## 🚀 Live Demo
 
 - **AWS S3:** [http://todo-app-alchagas.s3-website.eu-north-1.amazonaws.com](http://todo-app-alchagas.s3-website.eu-north-1.amazonaws.com)
-- **GitHub Pages:** [https://al24-chagas.github.io/todo-app/](https://al24-chagas.github.io/todo-app/)
+- **GitHub Pages:** [https://Al24-chagas.github.io/todo-app/](https://Al24-chagas.github.io/todo-app/)
 
 ## ✨ Features
 
